@@ -1,4 +1,3 @@
-```markdown
 # Enhancing IoT Intelligence: A Hierarchical Federated Collaborative Computing Framework for Integrating Generative AI
 
 This project implements a hierarchical federated collaborative computing framework designed to integrate Generative AI within IoT environments. The framework is built on the principles outlined in the paper "Enhancing IoT Intelligence: A Hierarchical Federated Collaborative Computing Framework for Integrating Generative AI".
